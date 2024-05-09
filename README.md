@@ -1,4 +1,6 @@
-# Welcome to the chatgpt-whatsapp-integration project, a powerful tool that integrates OpenAI's GPT models with WhatsApp using Node.js. This application is designed to answer user questions and deliver text or image responses directly through WhatsApp. Whether you're looking to enhance communication or provide instant support, this integration makes interaction seamless and interactive.
+# Welcome to the chatgpt-whatsapp-integration project, a powerful tool that integrates OpenAI's GPT models with WhatsApp using Node.js. 
+
+This application is designed to answer user questions and deliver text or image responses directly through WhatsApp. Whether you're looking to enhance communication or provide instant support, this integration makes interaction seamless and interactive.
 
 # Prerequisites
 Before you begin, make sure you have Node.js installed on your machine. (v.)
