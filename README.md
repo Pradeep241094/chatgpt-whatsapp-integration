@@ -6,14 +6,15 @@ Steps to execute:
 
 1. npm install (install the dependencies listed in package.json file
 
-  "dependencies": {
+    "dependencies": {
     "dotenv": "^16.0.3",
-    "openai": "^3.1.0",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.43.0",
     "qrcode-terminal": "^0.12.0",
+    "readline": "^1.3.0",
     "whatsapp-web.js": "^1.19.4"
   }
-
-
 2. You can obtain the Open AI API Key from the following link -> https://platform.openai.com/account/api-keys, Use this Key in the application by confirguring it in the .env file of your application.
 
 
