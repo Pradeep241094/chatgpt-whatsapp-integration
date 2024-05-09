@@ -15,7 +15,8 @@ OpenAI Enhanced Interactions:
 Integration with OpenAI's API to handle requests and generate content.
 Capable of generating images through DALL-E 2 based on text prompts received via WhatsApp.
 Uses OpenAI's advanced GPT models to provide text-based answers for queries.
-🔧 Core Functionality:
+
+# 🔧 Core Functionality:
 
 This system uses dotenv for environment management and node-fetch for HTTP requests.
 A special mechanism fetches the latest WhatsApp web version to ensure compatibility.
