@@ -17,7 +17,7 @@ Capable of generating images through DALL-E 2 based on text prompts received via
 Uses OpenAI's advanced GPT models to provide text-based answers for queries.
 🔧 Core Functionality:
 
-Our system uses dotenv for environment management and node-fetch for HTTP requests.
+This system uses dotenv for environment management and node-fetch for HTTP requests.
 A special mechanism fetches the latest WhatsApp web version to ensure compatibility.
 The script is set to recognize commands prefixed with "#", processes them, and utilizes OpenAI's capability to respond with either an image or a text message, based on the command context.
 
