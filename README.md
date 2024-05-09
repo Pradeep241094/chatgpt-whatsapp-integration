@@ -5,6 +5,8 @@
 Node.js (v20.5.0)
 WhatsApp Web.js
 OpenAI API
+
+
 🔑 Features:
 
 # WhatsApp Integration:
